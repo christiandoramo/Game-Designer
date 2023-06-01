@@ -1,16 +1,22 @@
 Criar um GDD
 
-
-
 - High Concept
 Pule na cabeça de Bilhões de Zumbís, desça para o bunker mais próximo, faça novas amizades, ache o impostor e crie o seu esquadrão para achar a cura e expulsar a ameaça invasora.
+
 - Game Overview
-história, personagens, ambientes, objetivos e recursos
 
-mecânicas de jogo-> O jogo possui uma mecânica de plataforma 2d tradicional, semelhante ao de super mario bros do nes. É possível pular, correr, ganhar estrela, soltar fogo. Só não é possível quebrar blocos com a cabeça.
+Mecânicas de jogo- O jogo possui uma mecânica de plataforma 2d tradicional, semelhante ao de super mario bros do nes. É possível pular, correr, ganhar estrela, soltar fogo. Só não é possível quebrar blocos com a cabeça.
 
-história -> Em 1944 a Terra foi dominada por um grupo de invasores alienigenas se intulando a raça superior espalharam seres fungicos que manipulam o cerebro humano para comerem outros humanos como forma de adquirir  mais tempo de vida ao fungo, volume e força, isso tudo com o objetivo de dizimar apenas os humanos que são os seres contaminados, sem destruir/poluir o meio ambiente.
-Os humanos sobreviventes se escondem em bunkers, e por meio dos rádios e tv (estilo analog horror) ficaram sabendo o que deve ser feito caso alguem seja um impostor infiltrado num bunker, e que existem varios impostores prontos para abrir o bunker e matar os sobreviventes. O protagonista, com suas pernas especiais dotadas de superpulo será responsável por salvar esse mundo, recrutando outras pessoas para pularem junto com ele para salvar o mundo (plot: essas pessoas que ele consegue recrutar e tem esse tipo de poder são na verdade impostores que não se esqueceram da sua missão dada pelos invasores)
+- História - Em 1944 a Terra foi dominada por um grupo de invasores alienigenas se intulando a raça superior espalharam seres fungicos que manipulam o cerebro humano para comerem outros humanos como forma de adquirir  mais tempo de vida ao fungo, volume e força, isso tudo com o objetivo de dizimar apenas os humanos que são os seres contaminados, sem destruir/poluir o meio ambiente.
+Os humanos sobreviventes se escondem em bunkers, e por meio dos rádios e tv (estilo analog horror) ficaram sabendo o que deve ser feito caso alguem seja um impostor infiltrado num bunker, e que existem varios impostores prontos para abrir o bunker e matar os sobreviventes. O protagonista, com suas pernas especiais dotadas de superpulo será responsável por salvar esse mundo, recrutando outras pessoas para pularem junto com ele para salvar o mundo (plot: essas pessoas que ele consegue recrutar e tem esse tipo de poder são na verdade impostores que não se esqueceram da sua missão dada pelos invasores - acham que tem esse poder por conta da armadura especial que possuem dentro do esqueleto - que no caso também é um exoesquesleto podendo evoluir para uma armadura a medida que mata mais zumbis (acumulo de sangue humano))
+
+Personagens - Diversos
+
+Ambientes - Ambiente pós apocaliptico estilo fallout 3, porém puxado para decada de 40
+
+objetivos - salvar os bunkers e achar a soluçãos dos problemas
+
+Recursos - habilidades na fase de combate - super pulo, super corrida, dash e outros, e habilidades de achar o impostor. Cada fase e evento da investigação ou combate vai gerar um OST diferente aprimorando a sensação do evento e aprimorar a experiencia. Os gráficos podem ser simples mais devem passar o efeito de sujo e pós apocaliptico
 
 - Título do Jogo
 Mario vs Zombie
