@@ -1,0 +1,22 @@
+Criar um GDD
+
+
+
+- High Concept
+Pule na cabeça de Bilhões de Zumbís, desça para o bunker mais próximo, faça novas amizades, ache o impostor e crie o seu esquadrão para achar a cura e expulsar a ameaça invasora.
+- Game Overview
+história, personagens, ambientes, objetivos e recursos
+
+mecânicas de jogo-> O jogo possui uma mecânica de plataforma 2d tradicional, semelhante ao de super mario bros do nes. É possível pular, correr, ganhar estrela, soltar fogo. Só não é possível quebrar blocos com a cabeça.
+
+história -> Em 1944 a Terra foi dominada por um grupo de invasores alienigenas se intulando a raça superior espalharam seres fungicos que manipulam o cerebro humano para comerem outros humanos como forma de adquirir  mais tempo de vida ao fungo, volume e força, isso tudo com o objetivo de dizimar apenas os humanos que são os seres contaminados, sem destruir/poluir o meio ambiente.
+Os humanos sobreviventes se escondem em bunkers, e por meio dos rádios e tv (estilo analog horror) ficaram sabendo o que deve ser feito caso alguem seja um impostor infiltrado num bunker, e que existem varios impostores prontos para abrir o bunker e matar os sobreviventes. O protagonista, com suas pernas especiais dotadas de superpulo será responsável por salvar esse mundo, recrutando outras pessoas para pularem junto com ele para salvar o mundo (plot: essas pessoas que ele consegue recrutar e tem esse tipo de poder são na verdade impostores que não se esqueceram da sua missão dada pelos invasores)
+
+- Título do Jogo
+Mario vs Zombie
+
+- O que faz dele único
+Os goombas aqui são dezenas de zumbis, bem mais frenético, em vez de entrar num tunel é um bunker, e lá não vai ter pontos e sim recursos, companions, impostores, uma namorada ou namorado quem sabe, ou tradicionalmente uma fase secreta (bunker abandonado)
+
+- Principais Gameplay Features
+Armas especiais relativas aos poderes dos impostores, interação com personagens e pontuação nas fases dos zumbis e no time de investigar o impostor
